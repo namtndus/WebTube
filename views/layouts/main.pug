@@ -2,8 +2,9 @@ doctype html
 html
     head
         title #{siteName}
+        script(src="https://kit.fontawesome.com/2ecb74b03c.js", crossorigin="anonymous")
     body
+        include ../partials/header
         main
             block content
-        footer
-            span &copy; Wetube
+        include ../partials/footer
