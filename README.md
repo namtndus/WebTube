@@ -11,7 +11,7 @@ Cloning Youtube and Vanilla and NodeJs
 - [ ] Join
 - [ ] Login
 - [ ] Logout
-- [ ] Search
+- [X] Search
 - [ ] User Detial
 - [ ] Edit Profile
 - [ ] Change Password
