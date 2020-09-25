@@ -3,8 +3,18 @@
 Cloning Youtube and Vanilla and NodeJs
 
 ## stack
-    express,pug,js
+    Express, Pug, Javascript, MongoDB
 
 ## Pages:
 
 - [ ] Home
+- [ ] Join
+- [ ] Login
+- [ ] Logout
+- [ ] Search
+- [ ] User Detial
+- [ ] Edit Profile
+- [ ] Change Password
+- [ ] Upload
+- [ ] Videos Detial
+- [ ] Edit Video
